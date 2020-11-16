@@ -1,6 +1,11 @@
 aaaaaaaaa
+<<<<<<< HEAD
 bbbbbbbbbbbbbbbb
 ccccccccccccccc
 cccccccccccccccccccccc`
 
 
+=======
+OOOOOOOOOOOOOOOOOOOOYUANJW01
+yuanjw01:bbbbbbbbbbbbbbbbb
+>>>>>>> yuanjw01
